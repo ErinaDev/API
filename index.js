@@ -6,16 +6,15 @@ function getInteractImage(name) {
 	let dir = "./resources/" + name;
 	let files = fs.readdirSync(dir);
 	let chosenFile = files[Math.floor(Math.random() * files.length)];
-	return config.baseUrl + name + "/" + chosenFile;
+	return process.env.BASEURL + name + "/" + chosenFile;
 }
 
 let express = require("express"),
 	http = require("http"),
 	app = express(),
 	fs = require("fs"),
-	config = require("./config.json"),
 	server = http.createServer(app),
-	port = config.port,
+	port = process.env.PORT,
 	web = async () => {
 		try {
 			app.set("view engine", "ejs")
