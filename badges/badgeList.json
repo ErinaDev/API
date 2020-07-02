@@ -1,0 +1,50 @@
+{
+	"0": {
+		"name": "Beta",
+		"description": "Miembro desde la beta.",
+		"image": false,
+		"badgeIcon": false
+	},
+	"1": {
+		"name": "Contribuidor",
+		"description": "Contribuidor de Erina",
+		"image": "https://cdn.discordapp.com/emojis/718989136312139796.png",
+		"badgeIcon": "<:Contributor:718989136312139796>"
+	},
+	"2": {
+		"name": "Insider",
+		"description": "Contactante directo de Erina",
+		"image": "https://cdn.discordapp.com/emojis/718989136236773497.png",
+		"badgeIcon": "<:Insider:718989136236773497>"
+	},
+	"3": {
+		"name": "Supporter",
+		"description": "Donador de Erina",
+		"image": "https://cdn.discordapp.com/emojis/718989136278585354.png",
+		"badgeIcon": "<:Supporter:718989136278585354>"
+	},
+	"4": {
+		"name": "Researcher",
+		"description": "Investigador de Erina",
+		"image": "https://cdn.discordapp.com/emojis/718989136194830367.png",
+		"badgeIcon": "<:Researcher:718989136194830367>"
+	},
+	"5": {
+		"name": "Dueño de Erina",
+		"description": "Erina le pertenece a él.",
+		"image": "https://cdn.discordapp.com/emojis/718989135993634827.png",
+		"badgeIcon": "<:Owner:718989135993634827>"
+	},
+	"6": {
+		"name": "Co-Dueño de Erina",
+		"description": "Erina le pertenece a él también.",
+		"image": "https://cdn.discordapp.com/emojis/718989136295362612.png",
+		"badgeIcon": "<:CoOwner:718989136295362612>"
+	},
+	"7": {
+		"name": "Desarrollador",
+		"description": "Desarrollador de Erina",
+		"image": "https://cdn.discordapp.com/emojis/718989136303882251.png",
+		"badgeIcon": "<:Developer:718989136303882251>"
+	}
+}
