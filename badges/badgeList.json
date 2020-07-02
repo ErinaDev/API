@@ -46,5 +46,11 @@
 		"description": "Desarrollador de Erina",
 		"image": "https://cdn.discordapp.com/emojis/718989136303882251.png",
 		"badgeIcon": "<:Developer:718989136303882251>"
+	},
+	"8": {
+		"name": "Votante de TOP.GG",
+		"description": "Has votado por Erina en TOP.GG ¡Eres genial! Esta medalla te permitirá acceder a más funciones exclusivas, conservala.",
+		"image": "https://cdn.discordapp.com/emojis/728389649395089460.png",
+		"badgeIcon": "<:topgg:728389649395089460>"
 	}
 }
