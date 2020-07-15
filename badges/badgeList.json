@@ -8,44 +8,44 @@
 	"1": {
 		"name": "Contribuidor",
 		"description": "Contribuidor de Erina",
-		"image": "https://cdn.discordapp.com/emojis/718989136312139796.png",
-		"badgeIcon": "<:Contributor:718989136312139796>"
+		"image": "https://cdn.discordapp.com/emojis/731690910190010418.png",
+		"badgeIcon": "<:Contributor:731690910190010418>"
 	},
 	"2": {
 		"name": "Insider",
 		"description": "Contactante directo de Erina",
-		"image": "https://cdn.discordapp.com/emojis/718989136236773497.png",
-		"badgeIcon": "<:Insider:718989136236773497>"
+		"image": "https://cdn.discordapp.com/emojis/731690909858660418.png",
+		"badgeIcon": "<:Insider:731690909858660418>"
 	},
 	"3": {
 		"name": "Supporter",
 		"description": "Donador de Erina",
-		"image": "https://cdn.discordapp.com/emojis/718989136278585354.png",
-		"badgeIcon": "<:Supporter:718989136278585354>"
+		"image": "https://cdn.discordapp.com/emojis/731690910051467326.png",
+		"badgeIcon": "<:Supporter:731690910051467326>"
 	},
 	"4": {
 		"name": "Researcher",
 		"description": "Investigador de Erina",
-		"image": "https://cdn.discordapp.com/emojis/718989136194830367.png",
-		"badgeIcon": "<:Researcher:718989136194830367>"
+		"image": "https://cdn.discordapp.com/emojis/731690910190141470.png",
+		"badgeIcon": "<:Researcher:731690910190141470>"
 	},
 	"5": {
 		"name": "Dueño de Erina",
 		"description": "Erina le pertenece a él.",
-		"image": "https://cdn.discordapp.com/emojis/718989135993634827.png",
-		"badgeIcon": "<:Owner:718989135993634827>"
+		"image": "https://cdn.discordapp.com/emojis/731690910202462218.png",
+		"badgeIcon": "<:Owner:731690910202462218>"
 	},
 	"6": {
 		"name": "Co-Dueño de Erina",
 		"description": "Erina le pertenece a él también.",
-		"image": "https://cdn.discordapp.com/emojis/718989136295362612.png",
-		"badgeIcon": "<:CoOwner:718989136295362612>"
+		"image": "https://cdn.discordapp.com/emojis/731690910076764161.png",
+		"badgeIcon": "<:CoOwner:731690910076764161>"
 	},
 	"7": {
 		"name": "Desarrollador",
 		"description": "Desarrollador de Erina",
-		"image": "https://cdn.discordapp.com/emojis/718989136303882251.png",
-		"badgeIcon": "<:Developer:718989136303882251>"
+		"image": "https://cdn.discordapp.com/emojis/731690909888151643.png",
+		"badgeIcon": "<:Developer:731690909888151643>"
 	},
 	"8": {
 		"name": "Votante de TOP.GG",
